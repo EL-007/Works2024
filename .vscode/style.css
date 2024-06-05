@@ -1,0 +1,31 @@
+        img {
+            width: 100%;
+        }
+        body {
+            background-color:#91f7d5;
+            color: #027c83;
+        }
+        header {
+            font-family:Georgia, 'Times New Roman', Times, serif;
+            border: 7px solid #c7f7e7;
+            text-align: center;
+        }
+        a {
+            color: white;
+        }
+
+        a.designLink{
+            color: #5847f0
+        }
+
+        a.devLink{
+            color: #4766f0;
+        }
+        
+        div.lilBear{
+            width: 25%; 
+        }
+
+        div.lilKitten{
+            width: 20%;
+        }

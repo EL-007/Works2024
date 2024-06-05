@@ -1,0 +1,23 @@
+
+        body {
+            background-color: white;
+            color: rgb(0, 0, 0);
+        }
+        header {
+            font-family:'Courier New', Courier, monospace;
+            text-align: center;
+            border: 10px solid rgb(46, 117, 139)
+        }
+        div {
+            width: 100%;
+        }
+        footer {
+            color: turquoise;
+        }
+        main {
+            display: flex;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: rgb(85, 172, 161);
+        }
+        a.galleryLink{
+            color: rgb(2, 161, 189);
+        }
